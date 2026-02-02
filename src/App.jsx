@@ -1,5 +1,6 @@
 
 import './App.css'
+import NewApp from './NewApp'
 import SvgImg from './SvgImg'
 import Def from './circle'
 function App() {
@@ -8,6 +9,7 @@ function App() {
   return (
    <div>
     <Def />
+    <NewApp/>
     {/* <SvgImg/> */}
    </div>
   )

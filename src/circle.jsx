@@ -2,6 +2,7 @@ import image from './occ.svg'
 function Def(){
     return (
         <>
+        <h2>hello</h2>
         <svg width="200" height="200">
             <circle cx="100" cy="100" r="90" fill="red" stroke="black" stroke-width="4"/>
 
